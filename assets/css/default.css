@@ -1,0 +1,121 @@
+html {
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    color: #ffffff;
+    overflow-x: hidden;
+    background-color: #050505
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    text-decoration: inherit;
+    color: inherit
+}
+
+ol,
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid #00000000;
+    transition: border-bottom .2s ease-in, color .2s ease-in
+}
+
+a:hover {
+    color: #DBB2FF;
+    border-bottom: 1px solid #DBB2FF
+}
+
+img {
+    max-width: 100%;
+    height: auto
+}
+
+button {
+    cursor: pointer
+}
+
+h1, h2, h3,
+h4, h5, h6,
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.hidden {
+    display: none !important
+}
+
+.view {
+    display: block !important
+}
+
+.flex {
+    display: flex !important
+}
+
+/*=============== SCROLL BAR ===============*/
+::-webkit-scrollbar {
+    width: .6rem;
+    height: .6rem;
+    border-radius: .5rem;
+    background-color: hsl(207, 4%, 72%);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: hsl(207, 4%, 54%);
+    border-radius: .5rem;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: hsl(207, 4%, 44%);
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url("../fonts/roboto/Roboto-Thin.ttf") format("truetype");
+    font-weight: 100
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url("../fonts/roboto/Roboto-Light.ttf") format("truetype");
+    font-weight: 300
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url("../fonts/roboto/Roboto-Regular.ttf") format("truetype");
+    font-weight: 400
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url("../fonts/roboto/Roboto-Medium.ttf") format("truetype");
+    font-weight: 500
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url("../fonts/roboto/Roboto-Bold.ttf") format("truetype");
+    font-weight: 700
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url("../fonts/roboto/Roboto-Black.ttf") format("truetype");
+    font-weight: 900
+}

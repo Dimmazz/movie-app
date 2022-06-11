@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main><hotanime>
+<anime id="16947" restricted="false">
+<episodecount>12</episodecount>
+<startdate>2022-04-09</startdate>
+<title xml:lang="x-jat" type="main">Spy x Family</title>
+<ratings>
+<permanent count="178">8.94</permanent>
+<temporary count="186">8.38</temporary>
+</ratings>
+<picture>271517.jpg</picture>
+</anime>
+<anime id="15070" restricted="false">
+<episodecount>13</episodecount>
+<startdate>2022-04-06</startdate>
+<enddate>2022-06-29</enddate>
+<title xml:lang="x-jat" type="main">Tate no Yuusha no Nariagari Season 2</title>
+<ratings>
+<permanent count="95">4.59</permanent>
+<temporary count="97">6.29</temporary>
+</ratings>
+<picture>271122.jpg</picture>
+</anime>
+<anime id="16262" restricted="false">
+<episodecount>12</episodecount>
+<startdate>2022-04-07</startdate>
+<enddate>2022-06-23</enddate>
+<title xml:lang="x-jat" type="main">Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu</title>
+<ratings>
+<permanent count="81">5.28</permanent>
+<temporary count="84">6.34</temporary>
+</ratings>
+<picture>269020.jpg</picture>
+</anime>
+<anime id="15806" restricted="false">
+<episodecount>12</episodecount>
+<startdate>2022-04-09</startdate>
+<enddate>2022-06-25</enddate>
+<title xml:lang="x-jat" type="main">Kaguya-sama wa Kokurasetai: Ultra Romantic</title>
+<ratings>
+<permanent count="72">8.57</permanent>
+<temporary count="73">8.08</temporary>
+</ratings>
+<picture>266649.jpg</picture>
+</anime>
+<anime id="16917" restricted="false">
+<episodecount>12</episodecount>
+<startdate>2022-04-05</startdate>
+<enddate>2022-06-21</enddate>
+<title xml:lang="x-jat" type="main">Yuusha, Yamemasu</title>
+<ratings>
+<permanent count="68">4.26</permanent>
+<temporary count="69">6.05</temporary>
+</ratings>
+<picture>269903.jpg</picture>
+</anime>
+<anime id="16505" restricted="false">
+<episodecount>12</episodecount>
+<startdate>2022-04-02</startdate>
+<enddate>2022-06-18</enddate>
+<title xml:lang="x-jat" type="main">Aharen-san wa Hakarenai</title>
+<ratings>
+<permanent count="87">4.45</permanent>
+<temporary count="88">5.99</temporary>
+</ratings>
+<picture>269056.jpg</picture>
+</anime>
+<anime id="16100" restricted="false">
+<episodecount>12</episodecount>
+<startdate>2022-04-06</startdate>
+<enddate>2022-06-22</enddate>
+<title xml:lang="x-jat" type="main">Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru</title>
+<ratings>
+<permanent count="85">3.11</permanent>
+<temporary count="87">5.30</temporary>
+</ratings>
+<picture>267645.jpg</picture>
+</anime>
+<anime id="15964" restricted="false">
+<episodecount>12</episodecount>
+<startdate>2022-04-10</startdate>
+<enddate>2022-07-10</enddate>
+<title xml:lang="x-jat" type="main">Kawaii dake ja Nai Shikimori-san</title>
+<ratings>
+<permanent count="66">4.56</permanent>
+<temporary count="69">5.92</temporary>
+<review count="1">2.16</review>
+</ratings>
+<picture>270979.jpg</picture>
+</anime>
+<anime id="15634" restricted="false">
+<episodecount>10</episodecount>
+<startdate>2022-04-12</startdate>
+<enddate>2022-06-14</enddate>
+<title xml:lang="x-jat" type="main">Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2022)</title>
+<ratings>
+<permanent count="51">8.10</permanent>
+<temporary count="51">7.63</temporary>
+</ratings>
+<picture>267388.jpg</picture>
+</anime>
+<anime id="16031" restricted="false">
+<episodecount>12</episodecount>
+<startdate>2022-03-20</startdate>
+<enddate>2022-06-18</enddate>
+<title xml:lang="x-jat" type="main">Shokei Shoujo no Virgin Road</title>
+<ratings>
+<permanent count="72">4.57</permanent>
+<temporary count="77">6.07</temporary>
+</ratings>
+<picture>269893.jpg</picture>
+</anime>
+</hotanime>
+<randomsimilar>
+<similar>
+<source aid="5424" restricted="false">
+<title xml:lang="x-jat" type="main">Aria the Origination</title>
+<picture>221237.jpg</picture>
+</source>
+<target aid="5186" restricted="false">
+<title xml:lang="x-jat" type="main">Sketchbook: Full Color`s</title>
+<picture>229235.jpg</picture>
+</target>
+</similar>
+<similar>
+<source aid="102" restricted="false">
+<title xml:lang="x-jat" type="main">Cardcaptor Sakura</title>
+<picture>221338.jpg</picture>
+</source>
+<target aid="9042" restricted="false">
+<title xml:lang="x-jat" type="main">Fate/Kaleid Liner Prisma Illya</title>
+<picture>156551.jpg</picture>
+</target>
+</similar>
+<similar>
+<source aid="10766" restricted="false">
+<title xml:lang="x-jat" type="main">Cross Ange: Tenshi to Ryuu no Rondo</title>
+<picture>159039.jpg</picture>
+</source>
+<target aid="8583" restricted="false">
+<title xml:lang="x-jat" type="main">Rinne no Lagrange: Flower Declaration of Your Heart</title>
+<picture>78230.jpg</picture>
+</target>
+</similar>
+<similar>
+<source aid="11904" restricted="false">
+<title xml:lang="x-jat" type="main">Girlish Number</title>
+<picture>221951.jpg</picture>
+</source>
+<target aid="10779" restricted="false">
+<title xml:lang="x-jat" type="main">Shirobako</title>
+<picture>258068.jpg</picture>
+</target>
+</similar>
+<similar>
+<source aid="98" restricted="false">
+<title xml:lang="x-jat" type="main">Kenpuu Denki Berserk</title>
+<picture>222152.jpg</picture>
+</source>
+<target aid="5679" restricted="false">
+<title xml:lang="x-jat" type="main">Mugen no Juunin</title>
+<picture>52852.jpg</picture>
+</target>
+</similar>
+<similar>
+<source aid="8552" restricted="false">
+<title xml:lang="x-jat" type="main">Kill Me Baby</title>
+<picture>77865.jpg</picture>
+</source>
+<target aid="8168" restricted="false">
+<title xml:lang="x-jat" type="main">Nichijou</title>
+<picture>229263.jpg</picture>
+</target>
+</similar>
+<similar>
+<source aid="5278" restricted="false">
+<title xml:lang="x-jat" type="main">Koharu Biyori</title>
+<picture>6428.jpg</picture>
+</source>
+<target aid="12" restricted="false">
+<title xml:lang="x-jat" type="main">Chobits</title>
+<picture>224620.jpg</picture>
+</target>
+</similar>
+<similar>
+<source aid="4191" restricted="false">
+<title xml:lang="x-jat" type="main">Paprika</title>
+<picture>228328.jpg</picture>
+</source>
+<target aid="6677" restricted="false">
+<title xml:lang="x-jat" type="main">Kuuchuu Buranko</title>
+<picture>30791.jpg</picture>
+</target>
+</similar>
+<similar>
+<source aid="8113" restricted="false">
+<title xml:lang="x-jat" type="main">Sekaiichi Hatsukoi TV</title>
+<picture>67874.jpg</picture>
+</source>
+<target aid="5532" restricted="false">
+<title xml:lang="x-jat" type="main">Junjou Romantica</title>
+<picture>7039.jpg</picture>
+</target>
+</similar>
+<similar>
+<source aid="6045" restricted="false">
+<title xml:lang="x-jat" type="main">Zettai Shougeki: Platonic Heart</title>
+<picture>233271.jpg</picture>
+</source>
+<target aid="913" restricted="false">
+<title xml:lang="x-jat" type="main">Variable Geo</title>
+<picture>86977.jpg</picture>
+</target>
+</similar>
+</randomsimilar>
+<randomrecommendation>
+<recommendation>
+<anime id="5638" restricted="true">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>2008-02-25</startdate>
+<enddate>2008-06-25</enddate>
+<title xml:lang="x-jat" type="main">Ai no Katachi: Ecchi na Onnanoko wa Kirai... Desuka?</title>
+<picture>7038.jpg</picture>
+<ratings>
+<permanent count="420">488</permanent>
+<recommendations>2</recommendations>
+</ratings>
+</anime>
+</recommendation>
+<recommendation>
+<anime id="2893" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>1999-08-21</startdate>
+<enddate>1999-08-21</enddate>
+<title xml:lang="x-jat" type="main">Clover</title>
+<picture>4156.jpg</picture>
+<ratings>
+<permanent count="833">465</permanent>
+<recommendations>6</recommendations>
+</ratings>
+</anime>
+</recommendation>
+<recommendation>
+<anime id="1214" restricted="false">
+<type>TV Series</type>
+<episodecount>51</episodecount>
+<startdate>2001-10-14</startdate>
+<enddate>2002-10-13</enddate>
+<title xml:lang="x-jat" type="main">Cyborg 009: The Cyborg Soldier</title>
+<picture>146058.jpg</picture>
+<ratings>
+<permanent count="317">431</permanent>
+<recommendations>3</recommendations>
+</ratings>
+</anime>
+</recommendation>
+<recommendation>
+<anime id="7520" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2010-08-21</startdate>
+<enddate>2010-08-21</enddate>
+<title xml:lang="x-jat" type="main">Gekijouban Metal Fight Beyblade vs Taiyou: Shakunetsu no Shinryakusha Sol Blaze</title>
+<picture>144767.jpg</picture>
+<ratings>
+<permanent count="54">385</permanent>
+<recommendations>1</recommendations>
+</ratings>
+</anime>
+</recommendation>
+<recommendation>
+<anime id="9164" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2012-08-25</startdate>
+<enddate>2012-08-25</enddate>
+<title xml:lang="x-jat" type="main">Houkago Midnighters</title>
+<picture>133365.jpg</picture>
+<ratings>
+<permanent count="122">481</permanent>
+<recommendations>6</recommendations>
+</ratings>
+</anime>
+</recommendation>
+<recommendation>
+<anime id="10548" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>2014-10-25</startdate>
+<enddate>2014-11-15</enddate>
+<title xml:lang="x-jat" type="main">Kuroshitsuji: Book of Murder</title>
+<picture>224674.jpg</picture>
+<ratings>
+<permanent count="584">761</permanent>
+<recommendations>4</recommendations>
+</ratings>
+</anime>
+</recommendation>
+<recommendation>
+<anime id="7426" restricted="false">
+<type>TV Series</type>
+<episodecount>51</episodecount>
+<startdate>2010-04-04</startdate>
+<enddate>2011-03-27</enddate>
+<title xml:lang="x-jat" type="main">Metal Fight Beyblade: Baku</title>
+<picture>44901.jpg</picture>
+<ratings>
+<permanent count="146">402</permanent>
+<recommendations>1</recommendations>
+</ratings>
+</anime>
+</recommendation>
+<recommendation>
+<anime id="13261" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-05-24</startdate>
+<enddate>2019-05-24</enddate>
+<title xml:lang="x-jat" type="main">Promare</title>
+<picture>231449.jpg</picture>
+<ratings>
+<permanent count="761">706</permanent>
+<recommendations>6</recommendations>
+</ratings>
+</anime>
+</recommendation>
+<recommendation>
+<anime id="9002" restricted="false">
+<type>TV Series</type>
+<episodecount>25</episodecount>
+<startdate>2012-09-29</startdate>
+<enddate>2013-03-23</enddate>
+<title xml:lang="x-jat" type="main">Shinsekai yori</title>
+<picture>224771.jpg</picture>
+<ratings>
+<permanent count="4819">845</permanent>
+<recommendations>90</recommendations>
+</ratings>
+</anime>
+</recommendation>
+<recommendation>
+<anime id="10419" restricted="false">
+<type>Web</type>
+<episodecount>5</episodecount>
+<startdate>2014-02-06</startdate>
+<enddate>2014-03-06</enddate>
+<title xml:lang="x-jat" type="main">Wonder Momo</title>
+<picture>149219.jpg</picture>
+<ratings>
+<permanent count="289">155</permanent>
+<recommendations>1</recommendations>
+</ratings>
+</anime>
+</recommendation>
+</randomrecommendation>
+</main>
